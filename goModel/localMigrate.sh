@@ -1,0 +1,1 @@
+source local/.local_env && go run ./db_migrate/migrate.go

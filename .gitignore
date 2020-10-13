@@ -1,0 +1,7 @@
+propdata
+*.csv
+*.parquet
+venv
+dask-worker-space
+.DS_Store
+.idea

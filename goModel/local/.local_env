@@ -1,0 +1,7 @@
+export db_user="postgres"
+export db_database="mydb"
+export db_host="127.0.0.1"
+export db_pwd=""
+export db_port="5432"
+export db_ssl="disabled"
+export env="local"
